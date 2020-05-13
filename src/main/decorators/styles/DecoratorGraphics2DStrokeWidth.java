@@ -6,6 +6,7 @@ import java.awt.Graphics2D;
 import main.decorators.DecoratorGraphics2D;
 import svg.element.style.StrokeWidth;
 
+
 public class DecoratorGraphics2DStrokeWidth extends DecoratorGraphics2D
 {
 	public DecoratorGraphics2DStrokeWidth(final StrokeWidth style, final Graphics2D g2d)
